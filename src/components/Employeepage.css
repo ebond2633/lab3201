@@ -1,0 +1,70 @@
+.employee-page{
+    border: 1px solid #4a4a4a;
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    
+}
+
+.header{
+    margin-bottom: 20px;
+}
+
+.title{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.content{
+    padding: 15px;
+}
+
+.profile-container{
+    display: flex;
+    justify-content: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.profile-info{
+    display: flex;
+    align-items: center;
+}
+
+.employee-details{
+    display: flex;
+    flex-direction: column;
+}
+
+.employee-name{
+    font-weight: bold;
+    margin: 0;
+}
+
+.employee-position{
+    color: grey;
+    margin: 0;
+}
+
+.contact-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+
+}
+
+.info-label{
+    font-weight: bold;
+    margin: 0;
+}
+
+.info-value{
+    margin: 0;
+}

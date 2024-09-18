@@ -1,0 +1,17 @@
+.homepage-container{
+    border: 1px solid #4a4a4a;
+    width: 50%;
+    padding: 20px;
+    box-sizing: border-box; 
+}
+
+.main-content{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+.employee-list .employee-page{
+    flex: 1;
+    margin: 1 10px;
+}

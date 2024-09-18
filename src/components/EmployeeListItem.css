@@ -1,0 +1,23 @@
+.employee-list-item{
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.employee-info{
+    display: flex;
+    flex-direction: column;
+}
+
+.employee-name{
+    font-weight: bold;
+    margin: 0;
+}
+
+.employee-occupation{
+    color: grey;
+    margin: 0;
+}
